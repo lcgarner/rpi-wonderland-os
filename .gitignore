@@ -1,0 +1,7 @@
+# output from build
+build/
+*.o
+*.elf
+
+# macos metadata
+.DS_Store
